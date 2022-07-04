@@ -1,0 +1,107 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/webclues/Desktop/HARDHATPRACTICE/contracts/Name.sol": {
+      "lastModificationDate": 1656076635776,
+      "contentHash": "1161f830cbc7e8bf111babd5fd34f462",
+      "sourceName": "contracts/Name.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Name"
+      ]
+    },
+    "/home/webclues/Desktop/HARDHATPRACTICE/contracts/Hostel.sol": {
+      "lastModificationDate": 1656336252397,
+      "contentHash": "68b329da9893e34099c7d8ad5cb9c940",
+      "sourceName": "contracts/Hostel.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [],
+      "artifacts": []
+    },
+    "/home/webclues/Desktop/HARDHATPRACTICE/contracts/SuplyChain.sol": {
+      "lastModificationDate": 1656336308363,
+      "contentHash": "350be668004d2a25e897072a56952b6f",
+      "sourceName": "contracts/SuplyChain.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "CryptoSuite",
+        "SupplyChain"
+      ]
+    }
+  }
+}
